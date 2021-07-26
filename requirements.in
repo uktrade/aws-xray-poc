@@ -1,0 +1,5 @@
+dj-database-url
+django
+psycopg2-binary
+gunicorn
+aws-xray-sdk
